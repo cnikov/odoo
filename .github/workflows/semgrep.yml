@@ -2,7 +2,6 @@ on:
   pull_request: {}
   push:
     branches:
-    - 16.0
     - main
     - master
     paths:
